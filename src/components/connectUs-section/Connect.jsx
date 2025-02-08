@@ -1,6 +1,5 @@
 import github from "../../assets/Icons/github.png"
 import instagram from "../../assets/Icons/Instagram.png"
-import twitter from "../../assets/Icons/twitter.png"
 import Form from "./Form"
 
 const Connect = () => {
@@ -9,15 +8,12 @@ const Connect = () => {
             <div className="flex-1">
                 <h1 className="text-4xl font-bold">Connect with <span className="text-primary-green">Us</span></h1>
                 <div className="flex my-4">
-                    <a href="https://github.com/gauravsingh1281">
+                    <a href="https://github.com/sanidhya-Git">
                         <img src={github} alt="" className="w-8 h-8 mr-2" />
                     </a>
-                    <a href="https://www.instagram.com/gauravsingh1281">
+                    <a href="https://www.instagram.com/sanidhya_mehra_?igsh=MW5vd3lpNnhyYmoxNQ==">
                         <img src={instagram} alt="" className="w-10 h-10 mr-2" />
-                    </a>
-                    <a href="https://twitter.com/gauravsingh1281">
-                        <img src={twitter} alt="" className="w-8 h-8" />
-                    </a>
+                    </a>                    
                 </div>
             </div>
             <div className="flex-1 md:mt-5">
