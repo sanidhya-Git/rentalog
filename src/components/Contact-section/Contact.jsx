@@ -28,19 +28,19 @@ const Contact = () => {
           <article className="flex flex-col items-center text-center ">
           <div className="flex gap-[27px] justify-center">
 
-  <a href="https://twitter.com/gauravsingh1281" className="group">
+  <a href="https://x.com/SanidhyaMehra?t=A79PNG0ToelB-wFxfDuuxw&s=08" className="group">
     <RiTwitterXFill 
       className="md:h-12 h-10 w-auto text-black transition-transform duration-300 ease-in-out transform group-hover:rotate-12 group-hover:scale-110 group-hover:shadow-lg"
     />
   </a>
 
-  <a href="https://github.com/gauravsingh1281" className="group">
+  <a href="https://github.com/sanidhya-Git" className="group">
     <FaGithub 
       className="text-6xl md:h-12 h-10 transition-transform duration-300 ease-in-out transform group-hover:rotate-12 group-hover:scale-110 group-hover:shadow-lg"
     />
   </a>
 
-  <a href="https://www.instagram.com/gauravsingh1281" className="group">
+  <a href="https://www.instagram.com/sanidhya_mehra_?igsh=MW5vd3lpNnhyYmoxNQ==" className="group">
     <img 
       src={Insta} 
       alt="Insta-logo" 
@@ -53,23 +53,23 @@ const Contact = () => {
               <p>
                 Email:
                 <a
-                  href="mailto:support@rentalog.in"
+                  href="mailto:sanidhya.web@gmail.com"
                   className="ml-1 font-bold text-primaryGreen underline"
                 >
-                  support@rentalog.in
+                  sanidhya.web@gmail.com
                 </a>
               </p>
               <p>
                 Phone:
                 <a
-                  href="tel:+916201577047"
+                  href="tel:+918955465833"
                   className="ml-1 font-bold text-primaryGreen underline"
                 >
-                  +91 62015 77047
+                  +91 8955465833
                 </a>
               </p>
               <p>
-                Address: Shaktinagar, Sonebhadra <br /> UP, 231222
+                Address:  BHAMBU PG <br /> Jaipur , 302017
               </p>
             </div>
           </article>
